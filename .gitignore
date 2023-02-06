@@ -8,3 +8,4 @@ siwiectech-sandbox-key.json
 /data
 venv/
 cropped_bikes.zip
+tmp*
